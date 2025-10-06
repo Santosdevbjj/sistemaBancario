@@ -166,6 +166,7 @@ Sair
 
 🧪 **Exemplo de Uso**
 
+
 ========== MENU ==========
 [d] Depositar
 [s] Sacar
@@ -176,6 +177,7 @@ Sair
 => Escolha uma opção: d
 Informe o valor do depósito: 200
 Depósito de R$ 200.00 realizado com sucesso!
+
 
 
 ---
