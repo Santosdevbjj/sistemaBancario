@@ -170,12 +170,6 @@ Sair
 
 
 
-=> Escolha uma opção: d
-Informe o valor do depósito: 200
-Depósito de R$ 200.00 realizado com sucesso!
-
-
-
 ---
 
 🛠️ **Tecnologias Utilizadas**
