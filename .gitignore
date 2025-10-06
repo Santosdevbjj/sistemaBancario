@@ -1,0 +1,11 @@
+# Arquivos de sistema
+.DS_Store
+*.pyc
+
+# Ambientes virtuais (ex: venv)
+venv/
+.venv/
+
+# Arquivos de cache e logs
+__pycache__/
+*.log
