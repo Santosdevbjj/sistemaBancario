@@ -166,15 +166,9 @@ Sair
 
 🧪 **Exemplo de Uso**
 
+<img width="854" height="582" alt="Screenshot_20251006-001524" src="https://github.com/user-attachments/assets/5e488bc8-c7d9-4433-b035-e31bfcc7da69" />
 
-========== MENU ==========
 
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
-
-==========================
 
 => Escolha uma opção: d
 Informe o valor do depósito: 200
