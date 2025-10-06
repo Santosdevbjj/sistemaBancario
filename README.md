@@ -168,10 +168,12 @@ Sair
 
 
 ========== MENU ==========
+
 [d] Depositar
 [s] Sacar
 [e] Extrato
 [q] Sair
+
 ==========================
 
 => Escolha uma opção: d
